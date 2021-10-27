@@ -1,0 +1,6 @@
+PyMuPDF==1.18.14
+Flask==1.1.2
+Flask_Cors==3.0.10
+layoutparser==0.2.0
+opencv_python_headless==4.5.2.54
+Pillow==8.4.0
