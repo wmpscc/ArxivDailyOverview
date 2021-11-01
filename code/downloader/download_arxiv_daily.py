@@ -19,7 +19,6 @@ if not os.path.isdir(root_path): os.makedirs(root_path)
 def get_one_page(url):
     response = requests.get(url, proxies=proxy, verify=False)
 
-    # response = requests.get(url, verify=False)
     while response.status_code == 403:
         time.sleep(500 + random.uniform(0, 500))
         response = requests.get(url)
