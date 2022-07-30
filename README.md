@@ -10,7 +10,7 @@
 ## 2 使用演示
 
 首先[下载权重](https://drive.google.com/drive/folders/1q2BXmiBs22jzHFTPV-nClzxIsvRtvndx?usp=sharing)，放置于`code/ParseServer/models/PubLayNet/faster_rcnn_R_50_FPN_3x/model_final.pth`
-
+- [备用链接](https://www.dropbox.com/s/dgy9c10wykk4lq4/model_final.pth?dl=1)
 ### 2.1 环境安装
 
 可选择在本地使用或Colab使用，以本地使用为例。
