@@ -9,7 +9,7 @@
 
 ## 2 使用演示
 
-首先下载权重[baiduyun 提取码:il87](https://pan.baidu.com/s/1Iu3vkj3r8oxIyS0lKTq8-w)，放置于`code/ParseServer/models/PubLayNet/faster_rcnn_R_50_FPN_3x/model_final.pth`
+首先[下载权重](https://drive.google.com/drive/folders/1q2BXmiBs22jzHFTPV-nClzxIsvRtvndx?usp=sharing)，放置于`code/ParseServer/models/PubLayNet/faster_rcnn_R_50_FPN_3x/model_final.pth`
 
 ### 2.1 环境安装
 
